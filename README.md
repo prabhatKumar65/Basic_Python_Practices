@@ -27,7 +27,7 @@ Welcome to **Basic Python Practices**,🥰This repository contains hands-on Pyth
 - 🔸 Decorators & Generators
 - 🔸 Iterators & Iterables
 
-### 🔴 Advanced Level
+### 🔴 Advanced Level learning 
 - 🚀 Multithreading & Multiprocessing
 - 🚀 Working with APIs (requests, JSON parsing)
 - 🚀 Database Connectivity (SQLite, MySQL, PostgreSQL)
