@@ -1,4 +1,4 @@
-# Basic Python Practices 🐍
+# This Repo For Basic Python Practices 🐍
 
 Welcome to **Basic Python Practices**,🥰This repository contains hands-on Python exercises covering fundamental to advanced concepts. Whether you're a beginner or an experienced coder, you'll find valuable practice materials here. 💡
 
