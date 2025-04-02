@@ -6,7 +6,7 @@ Welcome to **Basic Python Practices**,🥰This repository contains hands-on Pyth
 
 ### 🟢 Beginner Level
 - 🔹 Variables & Data Types
-- 🔹 Input & Output
+- 🔹 Input and Output
 - 🔹 Operators (Arithmetic, Logical, Comparison, etc.)
 - 🔹 Conditional Statements (if-else, nested conditions)
 - 🔹 Loops (for, while, break, continue)
