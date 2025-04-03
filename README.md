@@ -4,7 +4,7 @@ Welcome to **Basic Python Practices**,🥰This repository contains hands-on Pyth
 
 ## Topics Covered 📌
 
-### 🟢 Beginner Level
+### 🟢 Beginner Levels
 - 🔹 Variables & Data Types
 - 🔹 Input and Output
 - 🔹 Operators (Arithmetic, Logical, Comparison, etc.)
