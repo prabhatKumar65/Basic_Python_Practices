@@ -91,6 +91,6 @@ Enhance documentation or explanations
 
 To contribute, fork the repo, make your changes, and submit a pull request. 💬
 
-🎯 Happy Learning & Happy Coding!
+🎯 Happy Learning & Happy Coding.
 Keep practicing, keep growing.
 Let Python be your superpower. ⚡🐍
